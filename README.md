@@ -14,3 +14,5 @@ Using this project as an example, I wrote a blog post,
 [Docker: A Revolution of Development, Test and Deployment](http://cxwangyi.github.io/docker.md),
 to show you how to manage systems of micro-service architecture using
 Docker.
+
+change it for test aliyun docker reg
